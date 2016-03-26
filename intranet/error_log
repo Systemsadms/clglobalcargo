@@ -1,0 +1,62 @@
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 280
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[01-Jul-2014 18:14:41 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[01-Jul-2014 18:15:17 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 214
+[01-Jul-2014 18:15:17 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 221
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 253
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[01-Jul-2014 18:15:18 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[02-Jul-2014 13:38:46 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 214
+[02-Jul-2014 13:38:46 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 221
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 253
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[02-Jul-2014 13:38:46 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[08-Jul-2014 12:12:02 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 214
+[08-Jul-2014 12:12:02 America/Caracas] PHP Strict Standards:  Only variables should be passed by reference in /home/elitebroker/public_html/intranet/galeria.php on line 221
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitebroker/public_html/intranet/galeria.php:101) in /home/elitebroker/public_html/intranet/galeria.php on line 253
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  mysql_query(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 294
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/elitebroker/public_html/intranet/galeria.php on line 303
+[08-Jul-2014 12:12:02 America/Caracas] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home/elitebroker/public_html/intranet/galeria.php on line 317
+[04-Feb-2015 01:46:08 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:08 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:18 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:18 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/guias.php on line 125
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/clglobalcargo/public_html/intranet/guias.php on line 147
+[04-Feb-2015 01:46:19 America/Caracas] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/guias.php on line 174
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/clglobalcargo/public_html/intranet/precios.php on line 227
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clglobalcargo/public_html/intranet/precios.php on line 227
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/precios.php on line 229
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/precios.php on line 230
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/precios.php on line 231
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/precios.php on line 232
+[04-Feb-2015 01:46:28 America/Caracas] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/precios.php on line 235
+[04-Feb-2015 01:46:29 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:29 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:29 America/Caracas] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/galeria.php on line 304
+[04-Feb-2015 01:46:29 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/clglobalcargo/public_html/intranet/galeria.php on line 313
+[04-Feb-2015 01:46:29 America/Caracas] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/galeria.php on line 327
+[04-Feb-2015 01:46:31 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:31 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:33 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:33 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:34 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:34 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/clglobalcargo/public_html/intranet/cnx.php on line 3
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/cnx.php on line 4
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/clientes.php on line 159
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/clglobalcargo/public_html/intranet/clientes.php on line 180
+[04-Feb-2015 01:46:36 America/Caracas] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/clglobalcargo/public_html/intranet/clientes.php on line 205
